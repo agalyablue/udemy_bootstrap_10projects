@@ -2,40 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a45f8abc-da60-44c1-ad8d-8c9e9f126edd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sec5/css/all.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec5/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec5/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec5/img/bannerBcg.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec5/img/bedroom.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec5/img/bedroom2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec5/img/featured-1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec5/img/featured-2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec5/img/featured-3.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec5/img/kitchen.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec5/img/livingRoom.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec5/img/livingRoom2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec5/img/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec5/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec5/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec5/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec5/js/jquery-3.3.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec5/webfonts/fa-brands-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec5/webfonts/fa-brands-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec5/webfonts/fa-brands-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec5/webfonts/fa-brands-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec5/webfonts/fa-brands-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec5/webfonts/fa-regular-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec5/webfonts/fa-regular-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec5/webfonts/fa-regular-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec5/webfonts/fa-regular-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec5/webfonts/fa-regular-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec5/webfonts/fa-solid-900.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec5/webfonts/fa-solid-900.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec5/webfonts/fa-solid-900.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec5/webfonts/fa-solid-900.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec5/webfonts/fa-solid-900.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/sec4/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sec5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/sec5/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -49,19 +16,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sec4/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="703">
-              <caret line="597" lean-forward="true" selection-start-line="597" selection-end-line="597" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sec5/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="515">
-              <caret line="340" lean-forward="true" selection-start-line="340" selection-end-line="340" />
+            <state relative-caret-position="640">
+              <caret line="429" column="30" lean-forward="true" selection-start-line="429" selection-start-column="30" selection-end-line="429" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -76,8 +34,8 @@
       <list>
         <option value="$PROJECT_DIR$/sec4/js/app.js" />
         <option value="$PROJECT_DIR$/sec4/css/style.css" />
-        <option value="$PROJECT_DIR$/sec5/index.html" />
         <option value="$PROJECT_DIR$/sec4/index.html" />
+        <option value="$PROJECT_DIR$/sec5/index.html" />
       </list>
     </option>
   </component>
@@ -190,12 +148,12 @@
       <workItem from="1561916870674" duration="405000" />
       <workItem from="1561979298762" duration="9572000" />
       <workItem from="1562003508539" duration="1438000" />
-      <workItem from="1562005076090" duration="5516000" />
+      <workItem from="1562005076090" duration="8321000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20527000" />
+    <option name="totallyTimeSpent" value="23332000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1855" height="917" extended-state="0" />
@@ -291,17 +249,17 @@
         <state relative-caret-position="-2450" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sec5/index.html">
+    <entry file="file://$PROJECT_DIR$/sec4/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="515">
-          <caret line="340" lean-forward="true" selection-start-line="340" selection-end-line="340" />
+        <state relative-caret-position="683">
+          <caret line="597" lean-forward="true" selection-start-line="597" selection-end-line="597" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sec4/index.html">
+    <entry file="file://$PROJECT_DIR$/sec5/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="703">
-          <caret line="597" lean-forward="true" selection-start-line="597" selection-end-line="597" />
+        <state relative-caret-position="640">
+          <caret line="429" column="30" lean-forward="true" selection-start-line="429" selection-start-column="30" selection-end-line="429" selection-end-column="30" />
         </state>
       </provider>
     </entry>
