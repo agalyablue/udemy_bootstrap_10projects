@@ -2,62 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a45f8abc-da60-44c1-ad8d-8c9e9f126edd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sec6/css/all.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec6/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec6/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec6/img/categoryImg/bathroom-category.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec6/img/categoryImg/kitchen-category.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec6/img/categoryImg/livingroom-category.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec6/img/categoryImg/patio-category.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec6/img/company-logos/company-logo-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec6/img/company-logos/company-logo-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec6/img/company-logos/company-logo-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec6/img/company-logos/company-logo-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec6/img/company-logos/company-logo-5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec6/img/company-logos/company-logo-6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec6/img/home-filler.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec6/img/img-products/product-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec6/img/img-products/product-10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec6/img/img-products/product-11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec6/img/img-products/product-12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec6/img/img-products/product-13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec6/img/img-products/product-14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec6/img/img-products/product-15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec6/img/img-products/product-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec6/img/img-products/product-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec6/img/img-products/product-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec6/img/img-products/product-5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec6/img/img-products/product-6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec6/img/img-products/product-7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec6/img/img-products/product-8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec6/img/img-products/product-9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec6/img/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec6/img/pageBcg/bannerBcg.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec6/img/pageBcg/productsBcg.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec6/img/pageBcg/singleBcg.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec6/img/pageBcg/storeBcg.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec6/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec6/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec6/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec6/js/jquery-3.3.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec6/products.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec6/singleproduct.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec6/store.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec6/webfonts/fa-brands-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec6/webfonts/fa-brands-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec6/webfonts/fa-brands-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec6/webfonts/fa-brands-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec6/webfonts/fa-brands-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec6/webfonts/fa-regular-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec6/webfonts/fa-regular-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec6/webfonts/fa-regular-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec6/webfonts/fa-regular-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec6/webfonts/fa-regular-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec6/webfonts/fa-solid-900.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec6/webfonts/fa-solid-900.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec6/webfonts/fa-solid-900.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec6/webfonts/fa-solid-900.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec6/webfonts/fa-solid-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec7/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec7/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec7/img/car-american-1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec7/img/car-american-2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec7/img/car-american-3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec7/img/car-american-4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec7/img/car-american-5.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec7/img/car-default.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec7/img/car-german-1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec7/img/car-german-2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec7/img/car-german-3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec7/img/car-german-4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec7/img/car-german-5.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec7/img/customer-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec7/img/customer-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec7/img/featured.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec7/img/gearLogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec7/img/headerBcg.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec7/img/preloader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec7/img/questionBcg.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec7/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec7/js/all.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec7/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec7/js/jquery-3.3.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec7/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec7/video/videoBcg.mp4" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -71,51 +41,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sec6/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="682">
-              <caret line="719" lean-forward="true" selection-start-line="719" selection-end-line="719" />
-              <folding>
-                <element signature="e#27562#27569#1" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sec6/products.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="662">
-              <caret line="87" column="10" lean-forward="true" selection-start-line="87" selection-start-column="10" selection-end-line="87" selection-end-column="10" />
-              <folding>
-                <element signature="e#31320#31327#1" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sec6/singleproduct.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="846">
-              <caret line="89" column="30" lean-forward="true" selection-start-line="89" selection-start-column="30" selection-end-line="89" selection-end-column="30" />
-              <folding>
-                <element signature="e#28052#28059#1" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sec6/store.html">
+        <entry file="file://$PROJECT_DIR$/sec7/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="633">
-              <caret line="124" column="42" lean-forward="true" selection-start-line="124" selection-start-column="42" selection-end-line="124" selection-end-column="42" />
-              <folding>
-                <element signature="e#29696#29703#1" expanded="true" />
-              </folding>
+            <state relative-caret-position="657">
+              <caret line="671" column="12" lean-forward="true" selection-start-line="671" selection-start-column="12" selection-end-line="671" selection-end-column="12" />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sec7/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-300" />
           </provider>
         </entry>
       </file>
@@ -143,6 +81,7 @@
         <option value="$PROJECT_DIR$/sec6/index.html" />
         <option value="$PROJECT_DIR$/sec6/products.html" />
         <option value="$PROJECT_DIR$/sec6/store.html" />
+        <option value="$PROJECT_DIR$/sec7/index.html" />
       </list>
     </option>
   </component>
@@ -170,43 +109,36 @@
             <path>
               <item name="udemy_bootstrap_10projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="udemy_bootstrap_10projects" type="462c0819:PsiDirectoryNode" />
-              <item name="sec4" type="462c0819:PsiDirectoryNode" />
+              <item name="sec6" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="udemy_bootstrap_10projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="udemy_bootstrap_10projects" type="462c0819:PsiDirectoryNode" />
-              <item name="sec5" type="462c0819:PsiDirectoryNode" />
+              <item name="sec7" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="udemy_bootstrap_10projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="udemy_bootstrap_10projects" type="462c0819:PsiDirectoryNode" />
-              <item name="sec5" type="462c0819:PsiDirectoryNode" />
+              <item name="sec7" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="udemy_bootstrap_10projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="udemy_bootstrap_10projects" type="462c0819:PsiDirectoryNode" />
-              <item name="sec6" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="udemy_bootstrap_10projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="udemy_bootstrap_10projects" type="462c0819:PsiDirectoryNode" />
-              <item name="sec6" type="462c0819:PsiDirectoryNode" />
+              <item name="sec7" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="udemy_bootstrap_10projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="udemy_bootstrap_10projects" type="462c0819:PsiDirectoryNode" />
-              <item name="sec6" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="img-products" type="462c0819:PsiDirectoryNode" />
+              <item name="sec7" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="udemy_bootstrap_10projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="udemy_bootstrap_10projects" type="462c0819:PsiDirectoryNode" />
-              <item name="sec6" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="pageBcg" type="462c0819:PsiDirectoryNode" />
+              <item name="sec7" type="462c0819:PsiDirectoryNode" />
+              <item name="video" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -217,7 +149,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/sec6/img/pageBcg" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/sec7/img" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -229,11 +161,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/sec7/img" />
+      <recent name="$PROJECT_DIR$/sec7/video" />
+      <recent name="$PROJECT_DIR$/sec7" />
       <recent name="$PROJECT_DIR$/sec6/img/pageBcg" />
       <recent name="$PROJECT_DIR$/sec6/img/img-products" />
-      <recent name="$PROJECT_DIR$/sec6/img/company-logos" />
-      <recent name="$PROJECT_DIR$/sec6/img/categoryImg" />
-      <recent name="$PROJECT_DIR$/sec6/img" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -248,8 +180,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
+  <component name="RunManager" selected="JavaScript Debug.index.html (2)">
     <configuration name="index.html (1)" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/udemy_bootstrap_10projects/sec5/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/udemy_bootstrap_10projects/sec7/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/udemy_bootstrap_10projects/sec4/index.html" useBuiltInWebServerPort="true">
@@ -260,6 +195,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html (2)" />
         <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="Node.js.app.js" />
       </list>
@@ -279,18 +215,18 @@
       <workItem from="1561916870674" duration="405000" />
       <workItem from="1561979298762" duration="9572000" />
       <workItem from="1562003508539" duration="1438000" />
-      <workItem from="1562005076090" duration="28160000" />
+      <workItem from="1562005076090" duration="43743000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43171000" />
+    <option name="totallyTimeSpent" value="58754000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="1024" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11517077" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18268467" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -302,7 +238,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32914045" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -423,16 +359,6 @@
     <entry file="file://$PROJECT_DIR$/sec6/img/pageBcg/productsBcg.jpeg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/sec6/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="682">
-          <caret line="719" lean-forward="true" selection-start-line="719" selection-end-line="719" />
-          <folding>
-            <element signature="e#27562#27569#1" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sec6/products.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="662">
@@ -455,11 +381,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sec6/store.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="633">
+        <state relative-caret-position="483">
           <caret line="124" column="42" lean-forward="true" selection-start-line="124" selection-start-column="42" selection-end-line="124" selection-end-column="42" />
           <folding>
             <element signature="e#29696#29703#1" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec7/js/all.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec7/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-300" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec6/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="724" column="18" lean-forward="true" selection-start-line="724" selection-start-column="18" selection-end-line="724" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec7/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="657">
+          <caret line="671" column="12" lean-forward="true" selection-start-line="671" selection-start-column="12" selection-end-line="671" selection-end-column="12" />
         </state>
       </provider>
     </entry>
