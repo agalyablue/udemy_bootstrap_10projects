@@ -2,33 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a45f8abc-da60-44c1-ad8d-8c9e9f126edd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sec7/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec7/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec7/img/car-american-1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec7/img/car-american-2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec7/img/car-american-3.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec7/img/car-american-4.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec7/img/car-american-5.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec7/img/car-default.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec7/img/car-german-1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec7/img/car-german-2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec7/img/car-german-3.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec7/img/car-german-4.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec7/img/car-german-5.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec7/img/customer-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec7/img/customer-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec7/img/featured.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec7/img/gearLogo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec7/img/headerBcg.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec7/img/preloader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec7/img/questionBcg.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec7/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec7/js/all.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec7/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec7/js/jquery-3.3.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec7/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec7/video/videoBcg.mp4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sec7/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/sec7/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -44,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sec7/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="657">
-              <caret line="671" column="12" lean-forward="true" selection-start-line="671" selection-start-column="12" selection-end-line="671" selection-end-column="12" />
+            <state relative-caret-position="477">
+              <caret line="599" column="25" lean-forward="true" selection-start-line="599" selection-start-column="25" selection-end-line="599" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -86,9 +60,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="y" value="23" />
-    <option name="width" value="1855" />
-    <option name="height" value="917" />
+    <option name="width" value="1280" />
+    <option name="height" value="1024" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -215,18 +188,18 @@
       <workItem from="1561916870674" duration="405000" />
       <workItem from="1561979298762" duration="9572000" />
       <workItem from="1562003508539" duration="1438000" />
-      <workItem from="1562005076090" duration="43743000" />
+      <workItem from="1562005076090" duration="44553000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58754000" />
+    <option name="totallyTimeSpent" value="59564000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="1024" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18268467" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.023828436" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -406,8 +379,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sec7/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="657">
-          <caret line="671" column="12" lean-forward="true" selection-start-line="671" selection-start-column="12" selection-end-line="671" selection-end-column="12" />
+        <state relative-caret-position="477">
+          <caret line="599" column="25" lean-forward="true" selection-start-line="599" selection-start-column="25" selection-end-line="599" selection-end-column="25" />
         </state>
       </provider>
     </entry>
