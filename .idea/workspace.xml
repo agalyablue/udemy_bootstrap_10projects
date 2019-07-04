@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a45f8abc-da60-44c1-ad8d-8c9e9f126edd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/sec7/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/sec7/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sec7/img/customer-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sec7/img/customer-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sec7/img/customer-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sec7/img/customer-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sec7/img/customer-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sec7/img/customer-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sec7/img/gearLogo.png" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,8 +22,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sec7/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="477">
-              <caret line="599" column="25" lean-forward="true" selection-start-line="599" selection-start-column="25" selection-end-line="599" selection-end-column="25" />
+            <state relative-caret-position="395">
+              <caret line="45" column="7" lean-forward="true" selection-start-line="45" selection-start-column="7" selection-end-line="45" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -27,7 +31,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sec7/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-300" />
+            <state relative-caret-position="-4703" />
           </provider>
         </entry>
       </file>
@@ -188,24 +192,24 @@
       <workItem from="1561916870674" duration="405000" />
       <workItem from="1561979298762" duration="9572000" />
       <workItem from="1562003508539" duration="1438000" />
-      <workItem from="1562005076090" duration="44553000" />
+      <workItem from="1562005076090" duration="46696000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59564000" />
+    <option name="totallyTimeSpent" value="61707000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="1024" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.023828436" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2104845" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32969698" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39937106" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -365,11 +369,6 @@
     <entry file="file://$PROJECT_DIR$/sec7/js/all.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/sec7/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-300" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sec6/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="779">
@@ -377,10 +376,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/sec7/img/gearLogo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec7/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4703" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/sec7/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="477">
-          <caret line="599" column="25" lean-forward="true" selection-start-line="599" selection-start-column="25" selection-end-line="599" selection-end-column="25" />
+        <state relative-caret-position="395">
+          <caret line="45" column="7" lean-forward="true" selection-start-line="45" selection-start-column="7" selection-end-line="45" selection-end-column="7" />
         </state>
       </provider>
     </entry>
