@@ -2,12 +2,116 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a45f8abc-da60-44c1-ad8d-8c9e9f126edd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sec9/Portfolio/all.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec10/JS/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec10/JS/isotope.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec10/JS/jquery-3.3.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec10/JS/numscroller-1.0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec10/JS/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec10/bootstrap/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec10/font-awesome-4.7.0/HELP-US-OUT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec10/font-awesome-4.7.0/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec10/font-awesome-4.7.0/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec10/font-awesome-4.7.0/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec10/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec10/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec10/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec10/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec10/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec10/font-awesome-4.7.0/less/animated.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec10/font-awesome-4.7.0/less/bordered-pulled.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec10/font-awesome-4.7.0/less/core.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec10/font-awesome-4.7.0/less/fixed-width.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec10/font-awesome-4.7.0/less/font-awesome.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec10/font-awesome-4.7.0/less/icons.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec10/font-awesome-4.7.0/less/larger.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec10/font-awesome-4.7.0/less/list.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec10/font-awesome-4.7.0/less/mixins.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec10/font-awesome-4.7.0/less/path.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec10/font-awesome-4.7.0/less/rotated-flipped.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec10/font-awesome-4.7.0/less/screen-reader.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec10/font-awesome-4.7.0/less/stacked.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec10/font-awesome-4.7.0/less/variables.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec10/font-awesome-4.7.0/scss/_animated.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec10/font-awesome-4.7.0/scss/_bordered-pulled.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec10/font-awesome-4.7.0/scss/_core.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec10/font-awesome-4.7.0/scss/_fixed-width.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec10/font-awesome-4.7.0/scss/_icons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec10/font-awesome-4.7.0/scss/_larger.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec10/font-awesome-4.7.0/scss/_list.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec10/font-awesome-4.7.0/scss/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec10/font-awesome-4.7.0/scss/_path.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec10/font-awesome-4.7.0/scss/_rotated-flipped.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec10/font-awesome-4.7.0/scss/_screen-reader.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec10/font-awesome-4.7.0/scss/_stacked.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec10/font-awesome-4.7.0/scss/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec10/font-awesome-4.7.0/scss/font-awesome.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec10/images/background-banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec10/images/background-filler-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec10/images/background-filler-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec10/images/current-projects-1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec10/images/current-projects-2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec10/images/current-projects-3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec10/images/current-projects-4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec10/images/projects-city-1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec10/images/projects-city-2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec10/images/projects-city-3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec10/images/projects-country-1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec10/images/projects-country-2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec10/images/projects-country-3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec10/images/projects-water-1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec10/images/projects-water-2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec10/images/projects-water-3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec10/images/quotes-background.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec10/images/team-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec10/images/team-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec10/images/team-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec10/images/team-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec10/images/team-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec10/images/team1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec10/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec10/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec10/owl/owl.carousel.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec10/owl/owl.carousel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec10/owl/owl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec10/owl/owl.theme.default.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec9/img/banner-1.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/sec9/img/banner-1.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec9/img/projects-coffee-1.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/sec9/img/projects-coffee-1.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec9/img/projects-water-3.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/sec9/img/projects-water-3.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec9/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/sec9/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sec5/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/sec5/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sec5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/sec5/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sec6/products.html" beforeDir="false" afterPath="$PROJECT_DIR$/sec6/products.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sec7/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/sec7/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sec8/magnific-popup/jquery.magnific-popup.js" beforeDir="false" afterPath="$PROJECT_DIR$/sec8/magnific-popup/jquery.magnific-popup.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sec9/Portfolio/all.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sec9/Portfolio/img/banner-1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sec9/Portfolio/img/banner-2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sec9/Portfolio/img/banner-3.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sec9/Portfolio/img/current-project.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sec9/Portfolio/img/projects-coffee-1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sec9/Portfolio/img/projects-coffee-2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sec9/Portfolio/img/projects-coffee-3.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sec9/Portfolio/img/projects-tea-1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sec9/Portfolio/img/projects-tea-2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sec9/Portfolio/img/projects-tea-3.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sec9/Portfolio/img/projects-water-1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sec9/Portfolio/img/projects-water-2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sec9/Portfolio/img/projects-water-3.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sec9/Portfolio/img/video-filler.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sec9/Portfolio/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sec9/Portfolio/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sec9/Portfolio/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sec9/img/banner-1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sec9/img/banner-2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sec9/img/banner-3.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sec9/img/current-project.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sec9/img/projects-coffee-1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sec9/img/projects-coffee-2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sec9/img/projects-coffee-3.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sec9/img/projects-tea-1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sec9/img/projects-tea-2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sec9/img/projects-tea-3.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sec9/img/projects-water-1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sec9/img/projects-water-2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sec9/img/projects-water-3.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sec9/img/video-filler.jpeg" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,52 +124,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sec9/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="665">
-              <caret line="47" column="21" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#37869#37875#0" expanded="true" />
-                <element signature="e#38332#38339#1" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sec9/Portfolio/all.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sec9/Portfolio/main.css">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sec9/all.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sec9/main.css">
+        <entry file="file://$PROJECT_DIR$/sec10/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="545">
-              <caret line="170" column="1" selection-start-line="170" selection-start-column="1" selection-end-line="170" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sec9/script.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="3" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
+            <state relative-caret-position="713">
+              <caret line="397" lean-forward="true" selection-start-line="397" selection-end-line="397" />
             </state>
           </provider>
         </entry>
@@ -100,12 +163,14 @@
         <option value="$PROJECT_DIR$/sec9/main.css" />
         <option value="$PROJECT_DIR$/sec9/script.js" />
         <option value="$PROJECT_DIR$/sec9/index.html" />
+        <option value="$PROJECT_DIR$/sec10/index.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1280" />
-    <option name="height" value="1024" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1215" />
+    <option name="height" value="917" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -131,13 +196,13 @@
             <path>
               <item name="udemy_bootstrap_10projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="udemy_bootstrap_10projects" type="462c0819:PsiDirectoryNode" />
-              <item name="sec9" type="462c0819:PsiDirectoryNode" />
+              <item name="sec10" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="udemy_bootstrap_10projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="udemy_bootstrap_10projects" type="462c0819:PsiDirectoryNode" />
-              <item name="sec9" type="462c0819:PsiDirectoryNode" />
-              <item name="Portfolio" type="462c0819:PsiDirectoryNode" />
+              <item name="sec10" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -148,7 +213,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/sec9/Portfolio" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/sec10/images" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -159,12 +224,15 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/sec9/Portfolio" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/sec10/images" />
+      <recent name="$PROJECT_DIR$/sec10/img" />
+      <recent name="$PROJECT_DIR$/sec10" />
       <recent name="$PROJECT_DIR$/sec9" />
-      <recent name="$PROJECT_DIR$/sec9/img" />
-      <recent name="$PROJECT_DIR$/sec8/img" />
-      <recent name="$PROJECT_DIR$/sec8" />
+      <recent name="$PROJECT_DIR$/sec9/Portfolio" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -179,7 +247,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html (5)">
+  <component name="RunManager" selected="JavaScript Debug.index.html (6)">
     <configuration name="index.html (1)" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/udemy_bootstrap_10projects/sec5/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -195,19 +263,19 @@
     <configuration name="index.html (5)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/udemy_bootstrap_10projects/sec9/Portfolio/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/udemy_bootstrap_10projects/sec4/index.html" useBuiltInWebServerPort="true">
+    <configuration name="index.html (6)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/udemy_bootstrap_10projects/sec10/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="app.js" working-dir="$PROJECT_DIR$/sec4/grandmas-sweets-setup/js">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/udemy_bootstrap_10projects/sec4/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html (6)" />
         <item itemvalue="JavaScript Debug.index.html (5)" />
         <item itemvalue="JavaScript Debug.index.html (3)" />
         <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.index.html (2)" />
-        <item itemvalue="Node.js.app.js" />
       </list>
     </recent_temporary>
   </component>
@@ -225,22 +293,22 @@
       <workItem from="1561916870674" duration="405000" />
       <workItem from="1561979298762" duration="9572000" />
       <workItem from="1562003508539" duration="1438000" />
-      <workItem from="1562005076090" duration="79215000" />
+      <workItem from="1562005076090" duration="86443000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="94226000" />
+    <option name="totallyTimeSpent" value="101454000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="1024" extended-state="0" />
+    <frame x="0" y="23" width="1215" height="917" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1056394" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1557789" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32969698" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32969698" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39937106" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -259,104 +327,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sec4/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sec4/img-cart/cupcake-1.jpeg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/grandma-project/grandmas-sweets-setup/css/style.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/grandma-project/grandmas-sweets-setup/css/all.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sec4/grandmas-sweets-setup/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/grandma-project/grandmas-sweets-final/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="51" column="28" lean-forward="true" selection-start-line="51" selection-start-column="28" selection-end-line="51" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sec4/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="508">
-          <caret line="201" column="23" selection-start-line="201" selection-start-column="23" selection-end-line="201" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sec4/logo.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sec5/js/app.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sec5/css/all.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sec5/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2450" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sec6/css/all.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sec6/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-800" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sec6/js/app.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sec6/img/home-filler.jpeg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sec5/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="787">
-          <caret line="734" column="7" lean-forward="true" selection-start-line="734" selection-start-column="7" selection-end-line="734" selection-end-column="7" />
-          <folding>
-            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sec6/img/logo.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sec6/img/pageBcg/bannerBcg.jpeg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sec6/img/pageBcg/storeBcg.jpeg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sec6/img/pageBcg/productsBcg.jpeg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sec6/products.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="662">
-          <caret line="87" column="10" lean-forward="true" selection-start-line="87" selection-start-column="10" selection-end-line="87" selection-end-column="10" />
-          <folding>
-            <element signature="e#31320#31327#1" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sec6/singleproduct.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="846">
@@ -486,8 +456,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sec9/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="665">
-          <caret line="47" column="21" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
+        <state relative-caret-position="230">
+          <caret line="18" column="6" lean-forward="true" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -499,11 +469,90 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sec9/Portfolio/all.js">
+    <entry file="file://$PROJECT_DIR$/sec9/Portfolio/img/projects-water-1.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec9/Portfolio/img/projects-water-2.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec9/Portfolio/img/banner-2.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec9/Portfolio/img/projects-coffee-1.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec9/Portfolio/img/projects-water-3.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec9/Portfolio/img/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec9/Portfolio/img/all.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/sec9/Portfolio/main.css">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec9/Portfolio/all.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec9/Portfolio/script.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec9/Portfolio/img/projects-tea-3.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec9/Portfolio/img/projects-coffee-2.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec9/Portfolio/img/projects-coffee-3.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec9/Portfolio/img/projects-tea-1.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec9/Portfolio/img/projects-tea-2.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec9/Portfolio/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="666">
+          <caret line="113" lean-forward="true" selection-start-line="113" selection-end-line="113" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec9/Portfolio/img/banner-1.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec10/bootstrap/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec10/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5800" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec10/JS/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#style#0;n#i#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec10/owl/owl.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec10/font-awesome-4.7.0/css/font-awesome.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec10/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="713">
+          <caret line="397" lean-forward="true" selection-start-line="397" selection-end-line="397" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
