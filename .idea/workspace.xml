@@ -2,59 +2,52 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a45f8abc-da60-44c1-ad8d-8c9e9f126edd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sec11/first.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec11/font-awesome-4.7.0/HELP-US-OUT.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec11/font-awesome-4.7.0/css/font-awesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec11/font-awesome-4.7.0/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec11/font-awesome-4.7.0/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec11/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec11/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec11/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec11/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec11/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec11/font-awesome-4.7.0/less/animated.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec11/font-awesome-4.7.0/less/bordered-pulled.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec11/font-awesome-4.7.0/less/core.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec11/font-awesome-4.7.0/less/fixed-width.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec11/font-awesome-4.7.0/less/font-awesome.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec11/font-awesome-4.7.0/less/icons.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec11/font-awesome-4.7.0/less/larger.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec11/font-awesome-4.7.0/less/list.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec11/font-awesome-4.7.0/less/mixins.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec11/font-awesome-4.7.0/less/path.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec11/font-awesome-4.7.0/less/rotated-flipped.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec11/font-awesome-4.7.0/less/screen-reader.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec11/font-awesome-4.7.0/less/stacked.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec11/font-awesome-4.7.0/less/variables.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec11/font-awesome-4.7.0/scss/_animated.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec11/font-awesome-4.7.0/scss/_bordered-pulled.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec11/font-awesome-4.7.0/scss/_core.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec11/font-awesome-4.7.0/scss/_fixed-width.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec11/font-awesome-4.7.0/scss/_icons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec11/font-awesome-4.7.0/scss/_larger.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec11/font-awesome-4.7.0/scss/_list.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec11/font-awesome-4.7.0/scss/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec11/font-awesome-4.7.0/scss/_path.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec11/font-awesome-4.7.0/scss/_rotated-flipped.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec11/font-awesome-4.7.0/scss/_screen-reader.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec11/font-awesome-4.7.0/scss/_stacked.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec11/font-awesome-4.7.0/scss/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec11/font-awesome-4.7.0/scss/font-awesome.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec11/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec11/images/music-1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec11/images/music-2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec11/images/music-3.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec11/images/music-4.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec11/images/music-5.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec11/images/team-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec11/images/team-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec11/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec11/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec11/js/jquery-3.3.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec11/owl/owl.carousel.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec11/owl/owl.carousel.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec11/owl/owl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec11/owl/owl.theme.default.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec12/bar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec12/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec12/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec12/doughnut.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec12/font-awesome-4.7.0/HELP-US-OUT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec12/font-awesome-4.7.0/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec12/font-awesome-4.7.0/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec12/font-awesome-4.7.0/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec12/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec12/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec12/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec12/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec12/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec12/font-awesome-4.7.0/less/animated.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec12/font-awesome-4.7.0/less/bordered-pulled.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec12/font-awesome-4.7.0/less/core.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec12/font-awesome-4.7.0/less/fixed-width.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec12/font-awesome-4.7.0/less/font-awesome.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec12/font-awesome-4.7.0/less/icons.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec12/font-awesome-4.7.0/less/larger.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec12/font-awesome-4.7.0/less/list.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec12/font-awesome-4.7.0/less/mixins.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec12/font-awesome-4.7.0/less/path.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec12/font-awesome-4.7.0/less/rotated-flipped.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec12/font-awesome-4.7.0/less/screen-reader.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec12/font-awesome-4.7.0/less/stacked.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec12/font-awesome-4.7.0/less/variables.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec12/font-awesome-4.7.0/scss/_animated.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec12/font-awesome-4.7.0/scss/_bordered-pulled.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec12/font-awesome-4.7.0/scss/_core.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec12/font-awesome-4.7.0/scss/_fixed-width.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec12/font-awesome-4.7.0/scss/_icons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec12/font-awesome-4.7.0/scss/_larger.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec12/font-awesome-4.7.0/scss/_list.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec12/font-awesome-4.7.0/scss/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec12/font-awesome-4.7.0/scss/_path.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec12/font-awesome-4.7.0/scss/_rotated-flipped.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec12/font-awesome-4.7.0/scss/_screen-reader.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec12/font-awesome-4.7.0/scss/_stacked.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec12/font-awesome-4.7.0/scss/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec12/font-awesome-4.7.0/scss/font-awesome.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec12/images/team-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec12/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec12/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec12/js/jquery-3.3.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec12/line.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -68,45 +61,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sec11/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="373">
-              <caret line="323" column="14" selection-start-line="323" selection-start-column="14" selection-end-line="323" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sec11/font-awesome-4.7.0/css/font-awesome.css">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sec11/css/main.css">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sec11/first.html">
+        <entry file="file://$PROJECT_DIR$/sec12/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="688">
-              <caret line="340" lean-forward="true" selection-start-line="340" selection-end-line="340" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sec10/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="6" lean-forward="true" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+            <state relative-caret-position="628">
+              <caret line="341" column="23" lean-forward="true" selection-start-line="341" selection-start-column="23" selection-end-line="341" selection-end-column="23" />
               <folding>
-                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#9;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#section#9;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#section#9;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#1;n#div#3;n#div#0;n#div#0;n#div#0;n#section#9;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#iframe#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#12;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#li#3;n#ul#1;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#nav#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#12097#12104#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -145,6 +108,7 @@
         <option value="$PROJECT_DIR$/sec10/index.html" />
         <option value="$PROJECT_DIR$/sec11/first.html" />
         <option value="$PROJECT_DIR$/sec11/index.html" />
+        <option value="$PROJECT_DIR$/sec12/index.html" />
       </list>
     </option>
   </component>
@@ -172,18 +136,7 @@
             <path>
               <item name="udemy_bootstrap_10projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="udemy_bootstrap_10projects" type="462c0819:PsiDirectoryNode" />
-              <item name="sec10" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="udemy_bootstrap_10projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="udemy_bootstrap_10projects" type="462c0819:PsiDirectoryNode" />
-              <item name="sec11" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="udemy_bootstrap_10projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="udemy_bootstrap_10projects" type="462c0819:PsiDirectoryNode" />
-              <item name="sec11" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="sec12" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -194,7 +147,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/sec11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/sec12/images" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -209,11 +162,11 @@
       <recent name="$PROJECT_DIR$/sec9/Portfolio" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/sec12/images" />
+      <recent name="$PROJECT_DIR$/sec12" />
       <recent name="$PROJECT_DIR$/sec11" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/sec11/font-awesome-4.7.0" />
-      <recent name="$PROJECT_DIR$/sec11/images" />
-      <recent name="$PROJECT_DIR$/sec10/images" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -228,14 +181,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.first.html">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration name="first.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/udemy_bootstrap_10projects/sec11/first.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="index.html (1)" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/udemy_bootstrap_10projects/sec5/index.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="index.html (3)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/udemy_bootstrap_10projects/sec8/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="index.html (4)" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/udemy_bootstrap_10projects/sec9/index.html" useBuiltInWebServerPort="true">
@@ -250,13 +200,16 @@
     <configuration name="index.html (7)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/udemy_bootstrap_10projects/sec11/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/udemy_bootstrap_10projects/sec12/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.first.html" />
         <item itemvalue="JavaScript Debug.index.html (7)" />
         <item itemvalue="JavaScript Debug.index.html (6)" />
         <item itemvalue="JavaScript Debug.index.html (5)" />
-        <item itemvalue="JavaScript Debug.index.html (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -274,17 +227,18 @@
       <workItem from="1561916870674" duration="405000" />
       <workItem from="1561979298762" duration="9572000" />
       <workItem from="1562003508539" duration="1438000" />
-      <workItem from="1562005076090" duration="92886000" />
+      <workItem from="1562005076090" duration="97331000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="107897000" />
+    <option name="totallyTimeSpent" value="112342000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1220" height="917" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1409508" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.02502085" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -302,32 +256,30 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1409508" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32969698" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32969698" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3987879" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32914045" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sec8/img/menu-item-6.jpeg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sec8/img/banner-bcg.jpeg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sec8/img/body-bcg.jpeg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sec8/img/customer-1.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sec8/img/header-bcg.jpeg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sec8/.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sec8/css/bootstrap.min.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/sec8/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="663">
@@ -460,19 +412,7 @@
     <entry file="file://$PROJECT_DIR$/sec10/font-awesome-4.7.0/css/font-awesome.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/sec10/images/team-6.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/sec10/images/team-1.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sec10/images/team-5.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sec10/images/team-4.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sec10/images/team-3.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/sec10/images/team-2.jpg">
@@ -483,6 +423,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sec11/owl/owl.js">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec11/css/font-awesome.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec11/font-awesome-4.7.0/css/font-awesome.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec11/css/main.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec11/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="306" column="55" lean-forward="true" selection-start-line="306" selection-start-column="55" selection-end-line="306" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec11/first.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="304" column="76" lean-forward="true" selection-start-line="304" selection-start-column="76" selection-end-line="304" selection-end-column="76" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sec10/index.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -498,28 +461,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sec11/first.html">
+    <entry file="file://$PROJECT_DIR$/sec12/doughnut.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="688">
-          <caret line="340" lean-forward="true" selection-start-line="340" selection-end-line="340" />
+        <state relative-caret-position="285">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sec11/css/font-awesome.css">
+    <entry file="file://$PROJECT_DIR$/sec12/line.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/sec11/index.html">
+    <entry file="file://$PROJECT_DIR$/sec12/bar.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec10/images/team-4.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec10/images/team-5.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec10/images/team-3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec10/images/team-6.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec12/js/bootstrap.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec12/font-awesome-4.7.0/css/font-awesome.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec12/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="323" column="14" selection-start-line="323" selection-start-column="14" selection-end-line="323" selection-end-column="14" />
+        <state relative-caret-position="765">
+          <caret line="51" column="12" selection-start-line="51" selection-start-column="12" selection-end-line="51" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sec11/font-awesome-4.7.0/css/font-awesome.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sec11/css/main.css">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/sec12/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="628">
+          <caret line="341" column="23" lean-forward="true" selection-start-line="341" selection-start-column="23" selection-end-line="341" selection-end-column="23" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#li#3;n#ul#1;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#nav#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#12097#12104#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
