@@ -2,116 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a45f8abc-da60-44c1-ad8d-8c9e9f126edd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sec10/JS/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec10/JS/isotope.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec10/JS/jquery-3.3.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec10/JS/numscroller-1.0.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec10/JS/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec10/bootstrap/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec10/font-awesome-4.7.0/HELP-US-OUT.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec10/font-awesome-4.7.0/css/font-awesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec10/font-awesome-4.7.0/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec10/font-awesome-4.7.0/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec10/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec10/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec10/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec10/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec10/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec10/font-awesome-4.7.0/less/animated.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec10/font-awesome-4.7.0/less/bordered-pulled.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec10/font-awesome-4.7.0/less/core.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec10/font-awesome-4.7.0/less/fixed-width.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec10/font-awesome-4.7.0/less/font-awesome.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec10/font-awesome-4.7.0/less/icons.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec10/font-awesome-4.7.0/less/larger.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec10/font-awesome-4.7.0/less/list.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec10/font-awesome-4.7.0/less/mixins.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec10/font-awesome-4.7.0/less/path.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec10/font-awesome-4.7.0/less/rotated-flipped.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec10/font-awesome-4.7.0/less/screen-reader.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec10/font-awesome-4.7.0/less/stacked.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec10/font-awesome-4.7.0/less/variables.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec10/font-awesome-4.7.0/scss/_animated.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec10/font-awesome-4.7.0/scss/_bordered-pulled.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec10/font-awesome-4.7.0/scss/_core.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec10/font-awesome-4.7.0/scss/_fixed-width.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec10/font-awesome-4.7.0/scss/_icons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec10/font-awesome-4.7.0/scss/_larger.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec10/font-awesome-4.7.0/scss/_list.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec10/font-awesome-4.7.0/scss/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec10/font-awesome-4.7.0/scss/_path.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec10/font-awesome-4.7.0/scss/_rotated-flipped.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec10/font-awesome-4.7.0/scss/_screen-reader.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec10/font-awesome-4.7.0/scss/_stacked.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec10/font-awesome-4.7.0/scss/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec10/font-awesome-4.7.0/scss/font-awesome.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec10/images/background-banner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec10/images/background-filler-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec10/images/background-filler-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec10/images/current-projects-1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec10/images/current-projects-2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec10/images/current-projects-3.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec10/images/current-projects-4.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec10/images/projects-city-1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec10/images/projects-city-2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec10/images/projects-city-3.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec10/images/projects-country-1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec10/images/projects-country-2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec10/images/projects-country-3.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec10/images/projects-water-1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec10/images/projects-water-2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec10/images/projects-water-3.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec10/images/quotes-background.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec10/images/team-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec10/images/team-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec10/images/team-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec10/images/team-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec10/images/team-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec10/images/team1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec10/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec10/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec10/owl/owl.carousel.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec10/owl/owl.carousel.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec10/owl/owl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec10/owl/owl.theme.default.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec10/images/team-1.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec5/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/sec5/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/sec5/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec6/products.html" beforeDir="false" afterPath="$PROJECT_DIR$/sec6/products.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec7/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/sec7/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec8/magnific-popup/jquery.magnific-popup.js" beforeDir="false" afterPath="$PROJECT_DIR$/sec8/magnific-popup/jquery.magnific-popup.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec9/Portfolio/all.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec9/Portfolio/img/banner-1.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec9/Portfolio/img/banner-2.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec9/Portfolio/img/banner-3.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec9/Portfolio/img/current-project.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec9/Portfolio/img/projects-coffee-1.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec9/Portfolio/img/projects-coffee-2.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec9/Portfolio/img/projects-coffee-3.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec9/Portfolio/img/projects-tea-1.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec9/Portfolio/img/projects-tea-2.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec9/Portfolio/img/projects-tea-3.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec9/Portfolio/img/projects-water-1.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec9/Portfolio/img/projects-water-2.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec9/Portfolio/img/projects-water-3.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec9/Portfolio/img/video-filler.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec9/Portfolio/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec9/Portfolio/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec9/Portfolio/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec9/img/banner-1.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec9/img/banner-2.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec9/img/banner-3.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec9/img/current-project.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec9/img/projects-coffee-1.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec9/img/projects-coffee-2.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec9/img/projects-coffee-3.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec9/img/projects-tea-1.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec9/img/projects-tea-2.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec9/img/projects-tea-3.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec9/img/projects-water-1.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec9/img/projects-water-2.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec9/img/projects-water-3.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec9/img/video-filler.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sec10/images/current-projects-2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sec10/images/current-projects-3.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/sec10/images/current-projects-3.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sec10/images/team1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sec10/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/sec10/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -127,8 +23,15 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sec10/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="713">
-              <caret line="397" lean-forward="true" selection-start-line="397" selection-end-line="397" />
+            <state relative-caret-position="388">
+              <caret line="329" column="18" lean-forward="true" selection-start-line="329" selection-start-column="18" selection-end-line="329" selection-end-column="18" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#9;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#section#9;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#section#9;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#3;n#div#0;n#div#0;n#div#0;n#section#9;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#iframe#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#12;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -293,12 +196,12 @@
       <workItem from="1561916870674" duration="405000" />
       <workItem from="1561979298762" duration="9572000" />
       <workItem from="1562003508539" duration="1438000" />
-      <workItem from="1562005076090" duration="86443000" />
+      <workItem from="1562005076090" duration="87798000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="101454000" />
+    <option name="totallyTimeSpent" value="102809000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1215" height="917" extended-state="0" />
@@ -549,8 +452,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sec10/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="713">
-          <caret line="397" lean-forward="true" selection-start-line="397" selection-end-line="397" />
+        <state relative-caret-position="388">
+          <caret line="329" column="18" lean-forward="true" selection-start-line="329" selection-start-column="18" selection-end-line="329" selection-end-column="18" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#9;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#section#9;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#section#9;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#3;n#div#0;n#div#0;n#div#0;n#section#9;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#12;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
