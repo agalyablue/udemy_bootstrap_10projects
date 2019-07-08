@@ -2,15 +2,52 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a45f8abc-da60-44c1-ad8d-8c9e9f126edd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/sec13/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec13/sample/font-awesome-4.7.0/HELP-US-OUT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec13/sample/font-awesome-4.7.0/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec13/sample/font-awesome-4.7.0/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec13/sample/font-awesome-4.7.0/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec13/sample/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec13/sample/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec13/sample/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec13/sample/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec13/sample/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec13/sample/font-awesome-4.7.0/less/animated.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec13/sample/font-awesome-4.7.0/less/bordered-pulled.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec13/sample/font-awesome-4.7.0/less/core.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec13/sample/font-awesome-4.7.0/less/fixed-width.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec13/sample/font-awesome-4.7.0/less/font-awesome.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec13/sample/font-awesome-4.7.0/less/icons.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec13/sample/font-awesome-4.7.0/less/larger.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec13/sample/font-awesome-4.7.0/less/list.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec13/sample/font-awesome-4.7.0/less/mixins.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec13/sample/font-awesome-4.7.0/less/path.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec13/sample/font-awesome-4.7.0/less/rotated-flipped.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec13/sample/font-awesome-4.7.0/less/screen-reader.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec13/sample/font-awesome-4.7.0/less/stacked.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec13/sample/font-awesome-4.7.0/less/variables.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec13/sample/font-awesome-4.7.0/scss/_animated.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec13/sample/font-awesome-4.7.0/scss/_bordered-pulled.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec13/sample/font-awesome-4.7.0/scss/_core.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec13/sample/font-awesome-4.7.0/scss/_fixed-width.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec13/sample/font-awesome-4.7.0/scss/_icons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec13/sample/font-awesome-4.7.0/scss/_larger.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec13/sample/font-awesome-4.7.0/scss/_list.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec13/sample/font-awesome-4.7.0/scss/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec13/sample/font-awesome-4.7.0/scss/_path.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec13/sample/font-awesome-4.7.0/scss/_rotated-flipped.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec13/sample/font-awesome-4.7.0/scss/_screen-reader.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec13/sample/font-awesome-4.7.0/scss/_stacked.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec13/sample/font-awesome-4.7.0/scss/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec13/sample/font-awesome-4.7.0/scss/font-awesome.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec13/sample/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec13/sample/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec13/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec11/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/sec11/images/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec11/images/music-1.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/sec11/images/music-1.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec11/images/music-2.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/sec11/images/music-2.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec11/images/music-3.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/sec11/images/music-3.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec11/images/music-4.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/sec11/images/music-4.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec11/images/music-5.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/sec11/images/music-5.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec11/images/team-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sec11/images/team-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec11/images/team-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sec11/images/team-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sec9/Portfolio/img/projects-coffee-3.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/sec9/Portfolio/img/projects-coffee-3.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sec9/Portfolio/img/projects-tea-2.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/sec9/Portfolio/img/projects-tea-2.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sec9/Portfolio/img/projects-tea-3.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/sec9/Portfolio/img/projects-tea-3.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sec9/Portfolio/img/projects-water-2.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/sec9/Portfolio/img/projects-water-2.jpeg" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,24 +61,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sec12/index.html">
+        <entry file="file://$PROJECT_DIR$/sec13/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="358">
-              <caret line="323" column="14" lean-forward="true" selection-start-line="323" selection-start-column="14" selection-end-line="323" selection-end-column="14" />
-              <folding>
-                <element signature="n#style#0;n#img#0;n#a#0;n#li#3;n#ul#1;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#a#0;n#nav#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#12097#12104#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="2400">
+              <caret line="160" column="4" selection-start-line="160" selection-start-column="4" selection-end-line="160" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sec11/index.html">
+        <entry file="file://$PROJECT_DIR$/sec9/Portfolio/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="322" column="10" lean-forward="true" selection-start-line="322" selection-start-column="10" selection-end-line="322" selection-end-column="10" />
+            <state relative-caret-position="225">
+              <caret line="27" column="12" lean-forward="true" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -80,6 +112,7 @@
         <option value="$PROJECT_DIR$/sec11/first.html" />
         <option value="$PROJECT_DIR$/sec11/index.html" />
         <option value="$PROJECT_DIR$/sec12/index.html" />
+        <option value="$PROJECT_DIR$/sec13/index.html" />
       </list>
     </option>
   </component>
@@ -124,17 +157,6 @@
             <path>
               <item name="udemy_bootstrap_10projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="udemy_bootstrap_10projects" type="462c0819:PsiDirectoryNode" />
-              <item name="sec10" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="udemy_bootstrap_10projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="udemy_bootstrap_10projects" type="462c0819:PsiDirectoryNode" />
-              <item name="sec10" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="udemy_bootstrap_10projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="udemy_bootstrap_10projects" type="462c0819:PsiDirectoryNode" />
               <item name="sec11" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -146,7 +168,13 @@
             <path>
               <item name="udemy_bootstrap_10projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="udemy_bootstrap_10projects" type="462c0819:PsiDirectoryNode" />
-              <item name="sec12" type="462c0819:PsiDirectoryNode" />
+              <item name="sec13" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="udemy_bootstrap_10projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="udemy_bootstrap_10projects" type="462c0819:PsiDirectoryNode" />
+              <item name="sec13" type="462c0819:PsiDirectoryNode" />
+              <item name="sample" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -158,7 +186,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/sec11/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/sec9/Portfolio/img" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -170,11 +198,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/sec13" />
       <recent name="$PROJECT_DIR$/sec11/images" />
       <recent name="$PROJECT_DIR$/sec11" />
       <recent name="$PROJECT_DIR$/sec11/images/images" />
       <recent name="$PROJECT_DIR$/sec9/Portfolio/img" />
-      <recent name="$PROJECT_DIR$/sec9" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/sec9/Portfolio" />
@@ -192,20 +220,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.first.html">
+  <component name="RunManager" selected="JavaScript Debug.index.html (5)">
     <configuration name="first.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/udemy_bootstrap_10projects/sec11/first.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="index.html (1)" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/udemy_bootstrap_10projects/sec5/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
+    <configuration name="index.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/udemy_bootstrap_10projects/sec13/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="index.html (4)" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/udemy_bootstrap_10projects/sec9/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="index.html (5)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/udemy_bootstrap_10projects/sec9/Portfolio/index.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="index.html (6)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/udemy_bootstrap_10projects/sec10/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="index.html (7)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/udemy_bootstrap_10projects/sec11/index.html" useBuiltInWebServerPort="true">
@@ -216,11 +244,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html (5)" />
+        <item itemvalue="JavaScript Debug.index.html (2)" />
         <item itemvalue="JavaScript Debug.first.html" />
         <item itemvalue="JavaScript Debug.index.html (7)" />
         <item itemvalue="JavaScript Debug.index.html" />
-        <item itemvalue="JavaScript Debug.index.html (5)" />
-        <item itemvalue="JavaScript Debug.index.html (6)" />
       </list>
     </recent_temporary>
   </component>
@@ -239,18 +267,18 @@
       <workItem from="1561979298762" duration="9572000" />
       <workItem from="1562003508539" duration="1438000" />
       <workItem from="1562005076090" duration="97501000" />
-      <workItem from="1562542646343" duration="3126000" />
+      <workItem from="1562542646343" duration="5292000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="115638000" />
+    <option name="totallyTimeSpent" value="117804000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1220" height="917" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33110926" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18765639" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -292,11 +320,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sec9/main.css" />
-    <entry file="file://$PROJECT_DIR$/sec9/script.js" />
-    <entry file="file://$PROJECT_DIR$/sec9/index.html" />
-    <entry file="file://$PROJECT_DIR$/sec9/Portfolio/img/projects-water-2.jpeg" />
-    <entry file="file://$PROJECT_DIR$/sec9/Portfolio/img/banner-2.jpeg" />
     <entry file="file://$PROJECT_DIR$/sec9/Portfolio/img/projects-coffee-1.jpeg" />
     <entry file="file://$PROJECT_DIR$/sec9/Portfolio/img/projects-water-3.jpeg" />
     <entry file="file://$PROJECT_DIR$/sec9/Portfolio/img/index.html" />
@@ -413,13 +436,6 @@
     <entry file="file://$PROJECT_DIR$/sec11/images/team-2.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/sec9/Portfolio/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sec10/images/team-5.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -435,17 +451,10 @@
     <entry file="file://$PROJECT_DIR$/sec11/images/music-1.jpeg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/sec11/first.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="620">
-          <caret line="262" column="1" selection-start-line="262" selection-start-column="1" selection-end-line="262" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sec12/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="358">
-          <caret line="323" column="14" lean-forward="true" selection-start-line="323" selection-start-column="14" selection-end-line="323" selection-end-column="14" />
+          <caret line="323" column="14" selection-start-line="323" selection-start-column="14" selection-end-line="323" selection-end-column="14" />
           <folding>
             <element signature="n#style#0;n#img#0;n#a#0;n#li#3;n#ul#1;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#a#0;n#nav#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -457,7 +466,40 @@
     <entry file="file://$PROJECT_DIR$/sec11/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
-          <caret line="322" column="10" lean-forward="true" selection-start-line="322" selection-start-column="10" selection-end-line="322" selection-end-column="10" />
+          <caret line="322" column="10" selection-start-line="322" selection-start-column="10" selection-end-line="322" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec11/first.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="326" column="14" selection-start-line="326" selection-start-column="14" selection-end-line="326" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec13/style.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/sample/main.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec13/sample/images/team-1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec13/sample/images/team-5.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec13/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2400">
+          <caret line="160" column="4" selection-start-line="160" selection-start-column="4" selection-end-line="160" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec9/Portfolio/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="27" column="12" lean-forward="true" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
         </state>
       </provider>
     </entry>
