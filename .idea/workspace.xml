@@ -2,9 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a45f8abc-da60-44c1-ad8d-8c9e9f126edd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/sec13/images/background-iphone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec13/images/masonry-1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec13/images/masonry-2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec13/images/masonry-3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec13/images/masonry-4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec13/images/number-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec13/images/number-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec13/images/number-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec13/images/number-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec13/images/projects-1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec13/images/projects-2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec13/images/projects-3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec13/images/projects-4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec13/images/team-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec13/images/team-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec13/images/team-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec13/images/team-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec13/images/team-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec13/images/team-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec13/sample/images/masonry-1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec13/sample/images/masonry-2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec13/sample/images/masonry-3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec13/sample/images/masonry-4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec13/sample/images/projects-1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec13/sample/images/projects-2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec13/sample/images/projects-3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec13/sample/images/projects-4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec13/sample/images/team-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec13/sample/images/team-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec13/sample/images/team-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec13/sample/images/team-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec13/sample/images/team-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec13/sample/images/team-6.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec11/images/team-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sec11/images/team-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec11/images/team-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sec11/images/team-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sec13/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/sec13/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sec13/sample/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/sec13/sample/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,36 +50,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sec13/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2400">
-              <caret line="160" column="4" selection-start-line="160" selection-start-column="4" selection-end-line="160" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sec10/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="21" column="6" lean-forward="true" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+            <state relative-caret-position="259">
+              <caret line="1413" column="29" selection-start-line="1413" selection-start-column="29" selection-end-line="1413" selection-end-column="29" />
               <folding>
-                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#9;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#section#9;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#section#9;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#1;n#div#3;n#div#0;n#div#0;n#div#0;n#section#9;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#iframe#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#12;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#section#17;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#3;n#div#1;n#div#0;n#div#0;n#section#17;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#5;n#div#1;n#div#0;n#div#0;n#section#17;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#7;n#div#1;n#div#0;n#div#0;n#section#17;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#18;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#0;n#section#18;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#5;n#div#0;n#div#0;n#div#0;n#section#18;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#7;n#div#0;n#div#0;n#div#0;n#section#18;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#iframe#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#21;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sec11/index.html">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sec13/sample/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="410">
-              <caret line="324" column="5" lean-forward="true" selection-start-line="324" selection-start-column="5" selection-end-line="324" selection-end-column="5" />
+            <state relative-caret-position="663">
+              <caret line="64" column="12" selection-start-line="64" selection-start-column="12" selection-end-line="64" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -85,11 +113,12 @@
         <option value="$PROJECT_DIR$/sec11/first.html" />
         <option value="$PROJECT_DIR$/sec11/index.html" />
         <option value="$PROJECT_DIR$/sec12/index.html" />
+        <option value="$PROJECT_DIR$/sec13/sample/index.html" />
         <option value="$PROJECT_DIR$/sec13/index.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1220" />
     <option name="height" value="917" />
@@ -123,24 +152,26 @@
             <path>
               <item name="udemy_bootstrap_10projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="udemy_bootstrap_10projects" type="462c0819:PsiDirectoryNode" />
-              <item name="sec11" type="462c0819:PsiDirectoryNode" />
+              <item name="sec13" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="udemy_bootstrap_10projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="udemy_bootstrap_10projects" type="462c0819:PsiDirectoryNode" />
-              <item name="sec11" type="462c0819:PsiDirectoryNode" />
+              <item name="sec13" type="462c0819:PsiDirectoryNode" />
               <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="udemy_bootstrap_10projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="udemy_bootstrap_10projects" type="462c0819:PsiDirectoryNode" />
               <item name="sec13" type="462c0819:PsiDirectoryNode" />
+              <item name="sample" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="udemy_bootstrap_10projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="udemy_bootstrap_10projects" type="462c0819:PsiDirectoryNode" />
               <item name="sec13" type="462c0819:PsiDirectoryNode" />
               <item name="sample" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -152,7 +183,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/sec11/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/sec13/images" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -163,15 +194,15 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/sec11/images" />
-      <recent name="$PROJECT_DIR$/sec10/images" />
-      <recent name="$PROJECT_DIR$/sec9/Portfolio/img" />
-      <recent name="$PROJECT_DIR$/sec13" />
-      <recent name="$PROJECT_DIR$/sec11" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/sec9/Portfolio" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/sec13/images" />
+      <recent name="$PROJECT_DIR$/sec13/sample/images" />
+      <recent name="$PROJECT_DIR$/sec13/sample" />
+      <recent name="$PROJECT_DIR$/sec13" />
+      <recent name="$PROJECT_DIR$/sec11/images" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -186,7 +217,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html (7)">
+  <component name="RunManager" selected="JavaScript Debug.index.html (2)">
     <configuration name="first.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/udemy_bootstrap_10projects/sec11/first.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -208,11 +239,15 @@
     <configuration name="index.html (7)" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/udemy_bootstrap_10projects/sec11/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/udemy_bootstrap_10projects/sec13/sample/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html (2)" />
+        <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.index.html (3)" />
         <item itemvalue="JavaScript Debug.index.html (5)" />
-        <item itemvalue="JavaScript Debug.index.html (2)" />
         <item itemvalue="JavaScript Debug.first.html" />
       </list>
     </recent_temporary>
@@ -232,18 +267,19 @@
       <workItem from="1561979298762" duration="9572000" />
       <workItem from="1562003508539" duration="1438000" />
       <workItem from="1562005076090" duration="97501000" />
-      <workItem from="1562542646343" duration="7220000" />
+      <workItem from="1562542646343" duration="9595000" />
+      <workItem from="1562617152449" duration="9135000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="119732000" />
+    <option name="totallyTimeSpent" value="131242000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1220" height="917" extended-state="0" />
+    <frame x="0" y="23" width="1272" height="917" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18765639" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22142287" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -285,26 +321,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sec9/Portfolio/img/projects-coffee-2.jpeg" />
-    <entry file="file://$PROJECT_DIR$/sec9/Portfolio/img/projects-coffee-3.jpeg" />
-    <entry file="file://$PROJECT_DIR$/sec9/Portfolio/img/banner-1.jpeg" />
-    <entry file="file://$PROJECT_DIR$/sec10/bootstrap/bootstrap.min.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sec10/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5800" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sec10/JS/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#style#0;n#i#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sec10/owl/owl.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -408,13 +424,6 @@
     <entry file="file://$PROJECT_DIR$/sec13/sample/images/team-5.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/sec13/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2400">
-          <caret line="160" column="4" selection-start-line="160" selection-start-column="4" selection-end-line="160" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sec9/Portfolio/img/projects-water-1.jpeg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -477,8 +486,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sec11/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="324" column="5" lean-forward="true" selection-start-line="324" selection-start-column="5" selection-end-line="324" selection-end-column="5" />
+        <state relative-caret-position="470">
+          <caret line="328" column="22" lean-forward="true" selection-start-line="328" selection-start-column="22" selection-end-line="328" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec10/images/current-projects-1.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec13/images/masonry-2.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec13/sample/images/masonry-2.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec13/images/number-4.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec13/images/number-2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec13/sample/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="64" column="12" selection-start-line="64" selection-start-column="12" selection-end-line="64" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec13/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="1413" column="29" selection-start-line="1413" selection-start-column="29" selection-end-line="1413" selection-end-column="29" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#section#17;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#3;n#div#1;n#div#0;n#div#0;n#section#17;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#5;n#div#1;n#div#0;n#div#0;n#section#17;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#7;n#div#1;n#div#0;n#div#0;n#section#17;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#18;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#0;n#section#18;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#5;n#div#0;n#div#0;n#div#0;n#section#18;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#7;n#div#0;n#div#0;n#div#0;n#section#18;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#21;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
